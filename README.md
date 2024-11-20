@@ -22,4 +22,5 @@
   				├──>**R** (displays the Certain data selected)──> needs its own print
   				├──>**U** (changes the Data) (Form2)
   				└──>**D** (Deletes the Data)  (simple) 
-		
+	
+3. Set current date for operations
