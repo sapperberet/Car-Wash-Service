@@ -1,4 +1,7 @@
 # Car Wash Service
+
+
+
 ### 20/11/2024
 #### **Problematic**
 - Add button borders.
@@ -14,7 +17,7 @@
   	  - add to DB (New Form) *Form2*
   					|
   					└──> checkboxes to add value
-  		- **RUD DB BTNS**
+  		- **RUD DB BUTTONS**
   				|
   				├──>**R** (displays the Certain data selected)──> needs its own print
   				├──>**U** (changes the Data) (Form2)
