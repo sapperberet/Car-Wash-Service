@@ -23,4 +23,4 @@
   				├──>**U** (changes the Data) (Form2)
   				└──>**D** (Deletes the Data)  (simple) 
 	
-3. Set current date for operations
+3. **Set current date for operations**
