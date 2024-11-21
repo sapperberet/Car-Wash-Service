@@ -63,6 +63,16 @@ namespace Car_Wash_Service.Properties {
         /// <summary>
         ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Actions_dialog_close_icon {
+            get {
+                object obj = ResourceManager.GetObject("Actions-dialog-close-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Actions_document_print_icon {
             get {
                 object obj = ResourceManager.GetObject("Actions-document-print-icon", resourceCulture);
@@ -86,6 +96,46 @@ namespace Car_Wash_Service.Properties {
         internal static System.Drawing.Bitmap Actions_document_save_icon {
             get {
                 object obj = ResourceManager.GetObject("Actions-document-save-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Actions_list_remove_icon {
+            get {
+                object obj = ResourceManager.GetObject("Actions-list-remove-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Actions_page_zoom_icon {
+            get {
+                object obj = ResourceManager.GetObject("Actions-page-zoom-icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Actions_page_zoom_icon1 {
+            get {
+                object obj = ResourceManager.GetObject("Actions-page-zoom-icon1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Sucht eine lokalisierte Ressource vom Typ System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Actions_page_zoom_icon2 {
+            get {
+                object obj = ResourceManager.GetObject("Actions-page-zoom-icon2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
